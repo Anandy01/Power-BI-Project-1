@@ -22,7 +22,7 @@ This repository contains a comprehensive analysis of sales data for ShopNest, th
 
 ## Dashboard Features
 
-Dashboard link: 
+Dashboard link: https://github.com/Anandy01/Power-BI-Project-1/blob/main/Shopnest%20Power%20BI.pdf
 
 ShopNest Data Analysis
 This repository contains an in-depth analysis of the ShopNest Store's dataset. The following key analyses have been performed to provide comprehensive insights into the store's performance and customer behavior:
@@ -55,4 +55,4 @@ This repository contains an in-depth analysis of the ShopNest Store's dataset. T
 
 # Analysis Report 
 
-link: 
+link: https://github.com/Anandy01/Power-BI-Project-1/blob/main/Shopnest%20Power%20BI.pdf
