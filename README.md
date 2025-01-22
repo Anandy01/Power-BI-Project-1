@@ -55,4 +55,4 @@ This repository contains an in-depth analysis of the ShopNest Store's dataset. T
 
 # Analysis Report 
 
-link: https://github.com/Anandy01/Power-BI-Project-1/blob/main/Shopnest%20Power%20BI.pdf
+link: https://github.com/Anandy01/Power-BI-Project-1/blob/main/Shopnest%20report.docx
