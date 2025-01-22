@@ -51,6 +51,7 @@ This repository contains an in-depth analysis of the ShopNest Store's dataset. T
 
 | Summary |
 | ----------- |
+![D1](https://github.com/user-attachments/assets/5dffb045-637e-4d21-ad14-b3bc5d41c4e4)
 
 
 # Analysis Report 
